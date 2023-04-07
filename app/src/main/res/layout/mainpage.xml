@@ -3,30 +3,37 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="60dp">
+    android:padding="60dp"
+    android:background="@color/green4">
+
+
+
 
     <Button
         android:id="@+id/houseoptions"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="House Options"
-        android:backgroundTint="@color/green1"/>
+        android:backgroundTint="@color/orange1"/>
 
     <Button
         android:id="@+id/provideahome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Provide a Home" />
+        android:text="Provide a Home"
+        android:backgroundTint="@color/orange1"/>
 
     <Button
         android:id="@+id/donatenow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Donate Now" />
+        android:text="Donate Now"
+        android:backgroundTint="@color/orange1"/>
 
     <Button
         android:id="@+id/aboutus"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="About Us" />
+        android:text="About Us"
+        android:backgroundTint="@color/orange1"/>
 </LinearLayout>
