@@ -95,13 +95,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Upload from Gallery"
-        android: android:backgroundTint="@color/orange1"/>
+        android:backgroundTint="@color/orange1"/>
 
     <Button
         android:id="@+id/submit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="submit"
-        android: android:backgroundTint="@color/orange1"/>
+        android:backgroundTint="@color/orange1"/>
 
 </LinearLayout>

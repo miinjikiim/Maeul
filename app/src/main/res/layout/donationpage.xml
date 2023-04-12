@@ -22,7 +22,7 @@
         android:id="@+id/donate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android: android:backgroundTint="@color/orange1"
+        android:backgroundTint="@color/orange1"
         android:text="Donate Now" />
 
 </LinearLayout>
