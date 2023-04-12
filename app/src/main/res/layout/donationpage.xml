@@ -33,7 +33,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="15dp"
-        android:text="Maeul plans to connect all donations to The Beautiful Foundation, a charity site that specifically helps people and elderly that live in Seoul's shantytowns. The Beautiful Foundation strives to protect and support all citizens living in destitute and to financially aid these villages for faster renovation. More information can be found at https://beautifulfund.org/42843/. " />
+        android:text="Maeul plans to connect all donations to The Beautiful Foundation, a charity site that specifically helps people and elderly that live in Seoul's shantytowns. The Beautiful Foundation strives to protect and support all citizens living in destitute and to financially aid these villages for faster renovation.  " />
 
     <Button
         android:id="@+id/donate"
