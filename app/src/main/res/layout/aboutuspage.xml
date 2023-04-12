@@ -3,11 +3,62 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/green4">
+    android:background="@color/green4"
+    android:padding="10dp">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="The Problem:"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The elderly (mostly over age 65) who live by themselves in Guryong Village, one of the last undeveloped places in Seoul, live in complete destitute. Many live in extremely small one-rooms that barely fit one bed, and do not have the financial support to upgrade their living or to move to a different place. These rooms are often created with thin wood and do not even have doors. In order for the South Korean government to innovate the village, the elderly must temporarily move out. However, as most of them have nowhere else to go, many refuse to leave the place, thus leaving the village unavailable for innovation.
+" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Our Mission Statement"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Maeul will provide connections between elderly searching for temporary homes and people who are wanting to rent out their vacant homes for a good cause and also dispense multiple different service options for the elderly living in Guryong Village.
+" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Our Solution:"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Donating money and tangible materials such as blankets, hot packs, coolers, food, sanitary items, and more can improve the current situation of the elderly living in the village. Because most of the elderly living in the village have no stable income or available jobs whatsoever, financial and physical support is necessary in order for them to survive. Neighborhoods with lots of vacant homes require filling in order for the specific neighborhood to become repopulated again, and houses just outside of Seoul are not half as popular, which lowers the chances of being able to sell or rent the place.
+" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Why Maeul?"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This business was created after thorough research on the current problems and inequalities that certain minority groups in South Korea faced. We realized that the age proportions in the South Korean population leaned heavily towards the elderly, and also that the majority of these people were living by the bare minimum. After researching, we realized that a place called the Guryong Village was the last place in Seoul to remain as an old village built up with small, bedroom-sized houses just for the elderly with no physical and financial support. In order to help these specific people, we came up with an application to help the elderly in multiple different ways.
+" />
 </LinearLayout>

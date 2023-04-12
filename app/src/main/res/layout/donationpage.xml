@@ -4,25 +4,43 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background = "@color/green4"
-    android:gravity="center">
+    android:gravity="center"
+    android:padding="10dp">
 
     <TextView
         android:id="@+id/textView10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="20dp"
         android:text="What is Maeul?" />
 
     <TextView
         android:id="@+id/textView12"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:textSize="15dp"
+        android:text="Maeul will provide connections between elderly searching for temporary homes and people who are wanting to rent out their vacant homes for a good cause and also dispense multiple different service options for the elderly living in Guryong Village." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Maeul's Connections"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="Maeul plans to connect all donations to The Beautiful Foundation, a charity site that specifically helps people and elderly that live in Seoul's shantytowns. The Beautiful Foundation strives to protect and support all citizens living in destitute and to financially aid these villages for faster renovation. More information can be found at https://beautifulfund.org/42843/. " />
 
     <Button
         android:id="@+id/donate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/orange1"
+        android:textSize="15dp"
         android:text="Donate Now" />
 
 </LinearLayout>
