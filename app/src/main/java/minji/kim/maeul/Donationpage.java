@@ -19,7 +19,7 @@ public class Donationpage extends AppCompatActivity {
         donate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://m.naver.com"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://beautifulfund.org/42843/"));
                 startActivity(intent);
             }
         });
